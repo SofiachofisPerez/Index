@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+
+.body{
+    background-image: url(4\ oclok.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+}
+.CuadroPrincipal{
+    border: 5px solid rgb(255, 255, 255);
+    color: whitesmoke;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 50%;
+    text-align: center;
+}
